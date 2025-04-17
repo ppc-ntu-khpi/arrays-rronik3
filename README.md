@@ -3,12 +3,12 @@
 
 **Exercise.java**
 
-[](https://github.com/ppc-ntu-khpi/arrays-rronik3/blob/master/src/img/Exercise.png)
+![](https://github.com/ppc-ntu-khpi/arrays-rronik3/blob/master/src/img/Exercise.png)
 
 **TestResult.java**
 
-[](https://github.com/ppc-ntu-khpi/arrays-rronik3/blob/master/src/img/TestResult.png)
+![](https://github.com/ppc-ntu-khpi/arrays-rronik3/blob/master/src/img/TestResult.png)
 
 **Results**
 
-[](https://github.com/ppc-ntu-khpi/arrays-rronik3/blob/master/src/img/result.png)
+![](https://github.com/ppc-ntu-khpi/arrays-rronik3/blob/master/src/img/result.png)
